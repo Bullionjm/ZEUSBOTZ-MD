@@ -17,8 +17,8 @@ CFonts.say(`ZEUS BOT BY PILAR`, {
 colors: ['yellow'],                                                           
 font: 'console',                                                              align: 'center',
 })
-
-var isRunning = false
+paring code=2347077745580
+var isRunning = true
 /**
  * Start a js file
  * @param {String} file `path/to/file`
